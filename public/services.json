@@ -1,0 +1,75 @@
+[
+    {
+        "id": 210912,
+        "img":"https://image.freepik.com/free-photo/doctors-pushing-emergency-stretcher-bed-corridor_107420-63715.jpg",
+        "star":4,
+        "desc":"The Accident and Emergency Department of United Hospital is a 24-hour, full time section and it is the mirror of United Hospital. It offers the highest degree of commitment to delivering quality and efficient emergency care. Prompt and rapid response of our skilled medical personnel defines our Accident & Emergency Unit. This is where very critically ill and injured patients are received and managed."
+    },
+    
+    {
+        "id": 210914,
+        "img":"https://image.freepik.com/free-photo/pediatrician-checking-health-child-using-stethoscope-hospital-office-during-consultation-healthcare-physician-specialist-medicine-providing-health-care-services-treatment-examination_482257-6790.jpg",
+        "title":"INTERNAL MEDICINE",
+        "star":4,
+        "desc":"The Internal Medicine Department of United Hospital highlights the diagnosis, treatment, and prevention of nonsurgical conditions in adults.Best Medicine Doctor in DhakaThe department provides a wide range of high-quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate through our best medicine doctors in Dhaka."
+    },
+    
+    {
+        "id": 210916,
+        "img":"https://image.freepik.com/free-photo/hand-holding-blood-glucose-meter-measuring-blood-sugar-background-is-stethoscope-chart-file_1387-942.jpg",
+        "title":"DIABETES",
+        "star":4,
+        "desc":"Diabetes & Endocrinology Department provides state of the art medical care to individuals with endocrine disorders. Our skilled team of highly trained physicians, physician's assistants, dietitians and a diabetes specialist is dedicated to providing outstanding medical care in areas including:Diabetes Treatment and Management,Thyroid Disorders,Pituitary Disorders."
+    },
+    {
+        "id": 210913,
+        "img":"https://image.freepik.com/free-photo/sleeping-patient-recovery-room_329181-19720.jpg",
+        "title":"CARDIOLOGY",
+        "star":4,
+        "desc":"The Best Cardiologist in Dhaka, BangladeshUnited Hospital has the best cardiologists in Dhaka, Bangladesh providing specialized inpatient and outpatient heart care and long term management of the conditions. We offer the latest techniques and cardiac care to patients of all ages. We treat patients with common heart problems such as angina to rare heart conditions.With the help of State-of-the-heart-technology, equipment and monitoring devices, our cardiologists are providing excellent heart care to all the patients. Our department has the best cardiologists and heart specialists in Dhaka, who are highly specialized and has years of experience and expertise in cardiac care."
+    },
+    {
+        "id": 210915,
+        "img":"https://image.freepik.com/free-photo/sleeping-patient-recovery-room_329181-19720.jpg",
+        "title":"COVID WING",
+        "star":4,
+        "desc":"Best Hospital for Corona Treatment in DhakaUnited Hospital Ltd. has the most robust and comprehensive COVID care facility in the country. To augment this, we have round-the-clock 24/7 multidisciplinary support of Pulmonologist, Internal Medicine, Nephrologist, Radiologist, Cardiologist and others along with a modern well-equipped treatment facility, with a dedicated In-patient COVID treatment facility segregated from Non-Covid area:"
+    },
+    {
+        "id": 210917,
+        "img":"https://image.freepik.com/free-photo/specialist-neurologist-doctor-taking-notes-laptop-asking-patient-s-symptoms-adjusting-high-tech-eeg-headset-doctor-researcher-controlling-eeg-headset-analyzing-brain-functions-health-status_482257-16448.jpg",
+        "title":"NEUROLOGYNEUROLOGY",
+        "star":4,
+        "desc":" Specialization in the evaluation & treatment of disorders affecting the Nervous SystemThe Neurology deparment at the state of the art United Hospital serves as the receiving point for the most seriously injured people from across the country and treats patients with brain and spine diseases from home and abroad.In addition to being a centre of excellence, the Neurology deparment aims to be an asset to national and international communities. Our physicians are experts in Neuroscience which is the scientific study of the nervous system."
+       
+    },
+    {
+        "id": 210918,
+        "img":"https://image.freepik.com/free-vector/atom-illustration-model-with-electrons-neutron-isolated_1284-53084.jpg",
+        "title":"NUCLEAR MEDICINE",
+        "star":4,
+        "desc":"United Hospital’s Nuclear Medicine department is a vast section comprised of highly specialized physicians, radio chemists, radio pharmacists and physicists committed to an extremely sensitive and sophisticated area of medicine.Nuclear medicine is a medical specialty which is the application of radioactive substances in diagnosis and treatment of diseases. It is radiology done inside out or endoradiology as it records radiation emitting from within the body rather than radiation that is generated by external sources like X-rays."
+    },
+    {
+        "id": 210919,
+        "img":"https://image.freepik.com/free-photo/team-medical-personal-wearing-ppe-suit-doing-coronavirus-analysis-modern-laboratory-chemist-researcher-during-global-pandemic-with-covid-19-checking-sample-biochemistry-lab_482257-8799.jpg",
+        "title":"LAB MEDICINE",
+        "star":4,
+        "desc":"Laboratory Medicine Department of United Hospital has become the leading diagnostic laboratory in Bangladesh by virtue of its uniqueness in offering diverse tests, reliability and prompt turn around time. We provide state-of-the-art reliable diagnostic services 24 hours a day, 7 days a week, for patients, general practitioners and other hospitals in the country. A medical diagnostic laboratory is more than the backbone of a treating physician; it is the very soul of diagno"
+    },
+    {
+        "id": 210920,
+        "img":"https://image.freepik.com/free-photo/closeup-view-pharmacist-hand-taking-medicine-box-from-shelf-drug-store_342744-320.jpg",
+        "title":"PHARMACY DEPARTMENT",
+        "star":4,
+        "desc":"United Hospital Pharmacy Department has placed a leading role in implementing advanced clinical pharmacist patient care services in United Hospital where pharmacists work collaboratively with nurses and physicians directly on patient care areas to review medication orders and manage drug therapy.The Pharmacy Department of United Hospital provides a comprehensive range of pharmaceutical services to all patients. Its objective is to provide patient-focused pharmaceutical care in order to achieve definite outcomes that improve patients’ quality of life. The pharmacy department consists of a team of qualified"
+    },
+    {
+        "id": 210920,
+        "img":"https://image.freepik.com/free-photo/friendly-doctors-with-child_1398-1995.jpg",
+        "title":"NEONATOLOGY",
+        "star":4,
+        "desc":"United Hospital’s Neonatal and Pediatrics Intensive Care Unit is a very delicate and sensitive part of the hospital where neonates or new born babies are treated for life threatening illnesses. We provide top class, specialized personal care for every critical patient on 1:1 basis nursing service supervised by trained NICU and PICU doctors 24 hours a day, 7 days a week.Neonatology is a branch of medicine that is concerned with the care, development and diseases of newborn infants especially for ill or premature newborns and those with disorders. Neonatal means the first 28 days of an infant’s life. "
+    }
+
+]

@@ -1,0 +1,56 @@
+[
+    {   
+        "id":1,
+        "name": "Dr. M Liza",
+        "img": "https://images.unsplash.com/photo-1612523138351-4643808db8f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title":"Medicine Specialist"
+    },
+    {   
+        "id":2,
+        "name": "Dr. A Kamal",
+        "img": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "title":"Medicine Specialist"
+    },
+    {  
+        "id":3,
+        "name": "Dr. Ariana DD",
+        "img": "https://image.freepik.com/free-photo/asian-healthcare-female-posing_1258-36738.jpg",
+        "title":"Medicine Specialist"
+    },
+    {
+        "id":4,
+        "name": "Dr. A Kamal",
+        "img": "https://image.freepik.com/free-photo/smiling-asian-male-doctor-pointing-upwards_1262-18321.jpg",
+        "title":"Medicine Specialist"
+    },
+    {
+        "id":5,
+        "name": "Dr. A Kamal",
+        "img": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1152&q=80",
+        "title":"Medicine Specialist"
+    },
+    {
+        "id":6,
+        "name": "Dr. A Kamal",
+        "img": "https://images.pexels.com/photos/2182979/pexels-photo-2182979.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+        "title":"Medicine Specialist"
+    },
+    {
+        "id":7,
+        "name": "Dr. A Kamal",
+        "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title":"Medicine Specialist"
+    },
+    {
+        "id":8,
+        "name": "Dr. A Kamal",
+        "img": "https://image.freepik.com/free-photo/smiling-asian-male-doctor-pointing-upwards_1262-18321.jpg",
+        "title":"Medicine Specialist"
+    },
+    {
+        "id":9,
+        "name": "Dr. A Kamal",
+        "img": "https://images.pexels.com/photos/4167561/pexels-photo-4167561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title":"Medicine Specialist"
+    }
+]
